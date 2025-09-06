@@ -224,6 +224,17 @@
           "url": "https://www.instagram.com/dscs_2nd/"
         }
       ]
+    },
+    {
+      "name": "資訊研究社",
+      "school": "國立竹科實中",
+      "image": "assets/clubs/club21.png",
+      "socials": [
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/nehs_iced/"
+        }
+      ]
     }
   ],
   "sponsors": [
